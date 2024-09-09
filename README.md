@@ -5,7 +5,7 @@
 4. WAP to create simple console based calculator.
 
 # LAB2_PYTHON
-5. WAP to generate fobbonaci series.
+5. WAP to generate fobonacci series.
 6. WAP to calculate factorial using a loop.
 7. WAP to check if a given number is armstrong numebr or not.
 8. WAP to check if a given number is perfect number or not.
