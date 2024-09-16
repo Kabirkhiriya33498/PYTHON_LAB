@@ -1,9 +1,0 @@
-def print_multiplication_table(number, upto):
-    print(f"Multiplication table for {number} up to {upto}:")
-    for i in range(1, upto + 1):
-        print(f"{number} x {i} = {number * i}")
-
-num = int(input("Enter the number for which you want the multiplication table: "))
-range_up_to = int(input("Enter the range up to which you want the multiplication table: "))
-
-print_multiplication_table(num, range_up_to)
