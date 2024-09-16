@@ -1,0 +1,22 @@
+def sum_of_digits(number):
+    """
+    Calculate the sum of the digits of the given number.
+    """
+    total = 0
+    
+    number = abs(number)
+  
+    while number > 0:
+        total += number % 10
+        number //= 10
+
+    return total
+
+try:
+    num = int(input("Enter a number: "))
+    
+    result = sum_of_digits(num)
+    
+    print(f"The sum of the digits is {result}")
+except ValueError as e:
+ 
