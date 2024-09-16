@@ -1,0 +1,23 @@
+import math
+
+def factorial(x):
+    """Return the factorial of x."""
+    return math.factorial(x)
+
+def calculate_nCr(n, r):
+    """
+    Calculate the value of n choose r (nCr) using factorials.
+    """
+    if r > n:
+        return 0 
+    return factorial(n) // (factorial(r) * factorial(n - r))
+
+try:
+    n = int(input("Enter the value of n: "))
+    r = int(input("Enter the value of r: "))
+    
+    result = calculate_nCr(n, r)
+    
+    print(f"{n} choose {r} is {result}")
+except ValueError as e:
+    print(f"Invalid input: {e}")
