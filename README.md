@@ -13,7 +13,7 @@
 6. WAP to print multiplication tables.
 7. WAP to calculate the lcm and gcd of two numbers.
 
-#LAB3_PYTHON
+# LAB3_PYTHON
 1. WAP to check if the given numer is a disarium number or not.
 2. WAP to determine whether the given number is a harshad number or not.
 3. WAP to print armstrong number from 1 to 1000.
