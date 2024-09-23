@@ -20,4 +20,4 @@
 4. WAP to compute the value of X^n.
 5. WAP to calculate the value of nCr.
 6. WAP to count the sum of digits in the number entered.
-7. 
+
