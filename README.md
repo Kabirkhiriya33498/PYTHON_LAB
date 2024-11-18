@@ -23,7 +23,7 @@
 
 # LAB4_PYTHON
 Write a program to print the following pattern:- 
-Pattern #1: Simple Number Triangle Pattern 
+Pattern  #1: Simple Number Triangle Pattern 
 Pattern #2: Inverted Pyramid of Numbers  
 Pattern #3: Half Pyramid Pattern of Numbers 
 Pattern #4: Inverted Pyramid of Descending Numbers 
